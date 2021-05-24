@@ -20,7 +20,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=HollandseBami&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=HollandseBami&show_icons=true&theme=radical)
 ">
 
 
