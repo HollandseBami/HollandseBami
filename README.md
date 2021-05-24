@@ -20,7 +20,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+[![HollandseBami's GitHub stats](https://github-readme-stats.vercel.app/api?username=HollandseBami)](https://github.com/HollandseBami/github-readme-stats)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HollandseBami&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
